@@ -1,6 +1,6 @@
 # ░▒▓██████████████████▓▒░  THE CIPHER CONTINUES... (ClassicalMusicHub 2 - 2BS Challenge) ░▒▓██████████████████▓▒░
 
-##  ▂ ▄ ▅ ▆ ▇ █  WELCOME, CODEBREAKERS OF CLASSICALMUSIC HUB 2 (2BS)  █ ▇ ▆ ▅ ▄ ▂  
+##  ▂ ▄ ▅ ▆ ▇ █  WELCOME, CODEBREAKERS OF CLASSICALMUSICHUBB  █ ▇ ▆ ▅ ▄ ▂  
 
 Excellent work making it this far! The digital labyrinth twists and turns, demanding both cunning and skill. Now, we delve into the realm of code, where secrets lie hidden within the very fabric of logic.
 
