@@ -1,4 +1,4 @@
-# ░▒▓██████████████████▓▒░  THE CIPHER CONTINUES... (ClassicalMusicHubb   Challenge) ░▒▓██████████████████▓▒░
+# ░▒▓██████████████████▓▒░  THE CIPHER CONTINUES... (ClassicalMusicHubb Challenge) ░▒▓██████████████████▓▒░
 
 ##  ▂ ▄ ▅ ▆ ▇ █  WELCOME, CODEBREAKERS OF CLASSICALMUSICHUBB  █ ▇ ▆ ▅ ▄ ▂  
 
@@ -22,8 +22,8 @@ Prepare yourselves for a coding challenge that will test your ability to navigat
 * **Use a code editor.** This will make it easier to search and navigate the files.
 * **The encoded data may require further decryption.** Be prepared to employ your cryptographic skills once more.
 
-##  ▂ ▄ ▅ ▆ ▇ █  GOOD LUCK, CRYPTOGRAPHERS OF CLASSICALMUSIC HUB 2 (2BS)  █ ▇ ▆ ▅ ▄ ▂  
+##  ▂ ▄ ▅ ▆ ▇ █  GOOD LUCK, CRYPTOGRAPHERS OF CLASSICALMUSICHUBB  █ ▇ ▆ ▅ ▄ ▂  
 
 May your logic be sharp, your intuition keen, and your determination unwavering. The path to the final password is fraught with peril, but the reward is within reach.
 
-░▒▓██████████████████▓▒░  THE JOURNEY CONTINUES... (ClassicalMusicHub 2 - 2BS Challenge) ░▒▓██████████████████▓▒░
+░▒▓██████████████████▓▒░  THE JOURNEY CONTINUES... (ClassicalMusicHubb Challenge) ░▒▓██████████████████▓▒░
