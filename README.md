@@ -1,6 +1,6 @@
-# ░▒▓██████████████████▓▒░  THE CIPHER CONTINUES... ░▒▓██████████████████▓▒░
+# ░▒▓██████████████████▓▒░  THE CIPHER CONTINUES... (ClassicalMusicHub 2 - 2BS Challenge) ░▒▓██████████████████▓▒░
 
-##  ▂ ▄ ▅ ▆ ▇ █  WELCOME, CODEBREAKERS  █ ▇ ▆ ▅ ▄ ▂  
+##  ▂ ▄ ▅ ▆ ▇ █  WELCOME, CODEBREAKERS OF CLASSICALMUSIC HUB 2 (2BS)  █ ▇ ▆ ▅ ▄ ▂  
 
 Excellent work making it this far! The digital labyrinth twists and turns, demanding both cunning and skill. Now, we delve into the realm of code, where secrets lie hidden within the very fabric of logic.
 
@@ -22,8 +22,8 @@ Prepare yourselves for a coding challenge that will test your ability to navigat
 * **Use a code editor.** This will make it easier to search and navigate the files.
 * **The encoded data may require further decryption.** Be prepared to employ your cryptographic skills once more.
 
-##  ▂ ▄ ▅ ▆ ▇ █  GOOD LUCK, CRYPTOGRAPHERS  █ ▇ ▆ ▅ ▄ ▂  
+##  ▂ ▄ ▅ ▆ ▇ █  GOOD LUCK, CRYPTOGRAPHERS OF CLASSICALMUSIC HUB 2 (2BS)  █ ▇ ▆ ▅ ▄ ▂  
 
 May your logic be sharp, your intuition keen, and your determination unwavering. The path to the final password is fraught with peril, but the reward is within reach.
 
-░▒▓██████████████████▓▒░  THE JOURNEY CONTINUES...  ░▒▓██████████████████▓▒░
+░▒▓██████████████████▓▒░  THE JOURNEY CONTINUES... (ClassicalMusicHub 2 - 2BS Challenge) ░▒▓██████████████████▓▒░
